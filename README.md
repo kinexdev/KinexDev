@@ -1,13 +1,14 @@
+# About me
 My name is data.
 
 I like coding and game dev, those are my hobbies.
 
-The languages i code in are mostly C# and lua and other high-level languages
+I code in are mostly C#, i like language development and i'm actually making an lang called [meow](https://github.com/KinexDev/Meow) in my freetime, i also messing around with lua and it's dialects.
 
-I like programming, i mostly program in C# (.NET)
+I know most common engines like Unity, Unreal (c++), Godot and flax etc
 
-I know most common engines like Unity, Unreal (don't have that much experience with), Godot and flax etc
+# Current projects
 
-I'm currently making my own game Cat Mania!
+[Cat Mania](https://www.youtube.com/@BitbitGames/shorts) - i'm the main programmer, director and project lead.
 
-I love messing around with lua and it's dialects.
+[Meow](https://github.com/KinexDev/Meow) - my own language i'm making in my freetime.
