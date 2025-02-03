@@ -6,7 +6,7 @@ The languages i code in are mostly C# and lua and other high-level languages
 
 I like programming, i mostly program in C# (.NET)
 
-I know most common engines like Unity, Godot and flax etc, i'm currently learning unreal in my spare time.
+I know most common engines like Unity, Unreal (don't have that much experience with), Godot and flax etc
 
 I'm currently making my own game Cat Mania!
 
