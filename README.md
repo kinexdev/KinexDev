@@ -3,7 +3,7 @@ My name is data.
 
 I like coding and game dev, those are my hobbies.
 
-I code in are mostly C#, i like language development and i'm actually making an lang called [meow](https://github.com/KinexDev/Meow) in my freetime, i also messing around with lua and it's dialects.
+I code in are mostly C#, i like language development and i'm actually making an lang called [meow](https://github.com/KinexDev/Meow) in my freetime, i also love messing around with languages like lua and it's dialects.
 
 I know most common engines like Unity, Unreal (c++), Godot and flax etc
 
