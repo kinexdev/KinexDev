@@ -11,4 +11,4 @@ I know most common engines like Unity, Unreal (c++), Godot and flax etc
 
 [Cat Mania: Showdown](https://www.youtube.com/@BitbitGames/shorts) - i'm the main programmer, director, project lead and i do the backend.
 
-[Meow](https://github.com/KinexDev/Meow) - my own language i'm making in my freetime.
+[Luvu](https://github.com/KinexDev/Luvu) - imple game framework for making 2d games in luau made in Cpp.
