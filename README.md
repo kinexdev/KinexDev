@@ -7,4 +7,4 @@ I used to code mostly in C# but nowadays i mostly code in luau (I love embedding
 
 I know most common engines like Unity, Unreal (limited experience with because of how unbelievably slow it is!), Godot etc but i don't use them since they are too slow nowadays except for godot, but i just don't like it in general.
 
-I hate web development! JS SUCKS!!!!
+I hate web development!
