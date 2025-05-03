@@ -1,5 +1,5 @@
 # About me
-My name is data.
+My name is data (i also go by kinex).
 
 I like coding and under that umbrella i like game dev, engine dev and lang dev, those are my hobbies.
 
